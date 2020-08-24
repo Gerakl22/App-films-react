@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+
+.active-menu-item {
+  list-style: none;
+  background-color: blue;
+  width: 6%;
+  font-size: 22px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bolder;
+}

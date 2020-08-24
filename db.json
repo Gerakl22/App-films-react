@@ -1,0 +1,28 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Titanic",
+      "year": 1998,
+      "producer": "James Cameron",
+      "ranking": 5,
+      "status": "Want to view"
+    },
+    {
+      "id": 2,
+      "title": "Bohemian Rhapsody",
+      "year": 2018,
+      "producer": "Bryan Singer",
+      "ranking": 3,
+      "status": "View"
+    },
+    {
+      "title": "dsadas",
+      "year": "222",
+      "producer": "asdasd",
+      "ranking": 1,
+      "status": "No view",
+      "id": 3
+    }
+  ]
+}
